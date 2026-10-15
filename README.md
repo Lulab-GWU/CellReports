@@ -1,8 +1,6 @@
 # Cell Reports anxiety-ensemble analysis
 
-Jupyter notebooks and processed source data for **“Context-dependent
-recruitment of mouse prefrontal ensembles exhibits distinct vulnerabilities to
-MeCP2 deficiency.”**
+Jupyter notebooks and processed source data for **“Context-dependent recruitment of prefrontal ensembles reveals distinct vulnerabilities to MeCP2 deficiency”**
 
 The notebooks in `code/figures/` have been run successfully with the data
 included in this repository. They use repository-relative paths and save their
