@@ -1,0 +1,24 @@
+name: cellreports-anxiety-ensembles
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - ipykernel=6
+  - jupyterlab=4
+  - matplotlib=3.8
+  - nbconvert=7
+  - nbformat=5
+  - numpy=1.26
+  - openpyxl=3.1
+  - pandas=2.1
+  - pyarrow=14
+  - scikit-learn=1.2
+  - scipy=1.11
+  - seaborn=0.12
+  - statsmodels=0.14
+  - tifffile
+  - pip
+  - pip:
+      - oasis-deconv==0.2.0
+      - opencv-python-headless>=4.8,<5
+      - -e .
