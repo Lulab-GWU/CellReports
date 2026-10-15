@@ -1,0 +1,13 @@
+analysis,assay,genotype,paired_mice,centerON_unique_neurons,cornerON_unique_neurons,caption_centerON_unique_neurons,caption_cornerON_unique_neurons,caption_count_matches_plot_cohort
+instantaneous,OFT,WT,10,193,220,203,226,False
+instantaneous,OFT,RTT,7,77,103,77,103,True
+instantaneous,EPM,WT,8,86,88,86,88,True
+instantaneous,EPM,RTT,5,20,35,20,35,True
+instantaneous,mTC,WT,7,64,59,64,59,True
+instantaneous,mTC,RTT,6,33,43,33,43,True
+2s,OFT,WT,10,193,220,203,226,False
+2s,OFT,RTT,7,77,103,77,103,True
+2s,EPM,WT,9,99,111,99,111,True
+2s,EPM,RTT,5,20,35,20,35,True
+2s,mTC,WT,7,64,59,64,59,True
+2s,mTC,RTT,6,33,43,33,43,True

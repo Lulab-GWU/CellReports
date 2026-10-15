@@ -1,0 +1,9 @@
+Cohort,OFT ensemble,assay,pairwise_available_N
+RTT,Center-ON,EPM,20
+RTT,Center-ON,mTC,26
+RTT,Corner-ON,EPM,54
+RTT,Corner-ON,mTC,42
+WT,Center-ON,EPM,81
+WT,Center-ON,mTC,64
+WT,Corner-ON,EPM,91
+WT,Corner-ON,mTC,72
