@@ -1,0 +1,5 @@
+mouse_id,neuron,display_label,center_on,corner_on
+R01,C018,Center-active,1,0
+R01,C016,Corner-active,0,1
+R01,C027,Both-active,1,1
+R01,C009,Both-inactive,0,0

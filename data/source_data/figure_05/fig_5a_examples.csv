@@ -1,0 +1,5 @@
+mouse_id,neuron,display_label,source_column
+W01,C011,Open-P-ON,openPreferedON
+W01,C002,Open-NP-ON,openNonPreferedON
+W01,C012,Closed-P-ON,closePreferedON
+W01,C004,Closed-NP-ON,closeNonPreferedON
