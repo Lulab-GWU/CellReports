@@ -1,6 +1,8 @@
 # Cell Reports anxiety-ensemble analysis
 
-Jupyter notebooks and processed source data for **“Context-dependent recruitment of prefrontal ensembles reveals distinct vulnerabilities to MeCP2 deficiency”**
+Jupyter notebooks and processed source data for **“Context-dependent
+recruitment of mouse prefrontal ensembles exhibits distinct vulnerabilities to
+MeCP2 deficiency.”**
 
 The notebooks in `code/figures/` have been run successfully with the data
 included in this repository. They use repository-relative paths and save their
@@ -40,7 +42,7 @@ opening Markdown cells. Compact figure inputs are stored under
 ## Example analysis notebooks
 
 The notebooks in `code/analysis/` demonstrate two core analysis steps using
-the included example mouse `data/OFT_Data/NC128_WT/`:
+the included example mouse `data/OFT_Data/W01/`:
 
 - `code/analysis/1_ER_AM.ipynb` calculates calcium-event rate (transient rate) and amplitude
   for the whole OFT session and for center, corner, sniffing, and grooming
@@ -57,15 +59,19 @@ required to run the figure notebooks.
 
 ## Data and outputs
 
+The data used for each figure are summarized in
+`data/Anxiety Figures Data.xlsx`.
+
 ```text
 CellReports/
 ├── code/
 │   ├── figures/       # runnable figure notebooks
 │   └── analysis/      # ER/AM and ON/OFF example notebooks
 ├── data/
+│   ├── Anxiety Figures Data.xlsx  # data summarized by figure
 │   ├── source_data/   # compact inputs used by figure notebooks
 │   └── OFT_Data/
-│       └── NC128_WT/  # example input used by analysis notebooks
+│       └── W01/  # example input used by analysis notebooks
 ├── src/               # shared analysis and plotting functions
 ├── results/
 │   ├── figures/       # generated PNG files
