@@ -49,7 +49,7 @@ the included example mouse `data/OFT_Data/W01/`:
   periods. It saves `OFT_WT_All_Eventrate.xlsx` and
   `OFT_WT_All_Amplitude.xlsx` under `results/tables/`.
 - `code/analysis/2_ONOFF.ipynb` demonstrates the center-ON/OFF and corner-ON/OFF
-  classification procedure and writes `OFT_ONOFF.csv` to the NC128 example
+  classification procedure and writes `OFT_ONOFF.csv` to the W01 example
   folder.
 
 Both notebooks call the original analysis functions in `src/Functions.py`.
